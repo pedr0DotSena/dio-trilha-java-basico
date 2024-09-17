@@ -1,4 +1,4 @@
-public class App {
+public class ExemploFor {
     public static void main(String[] args) throws Exception {
     
     /* 
@@ -12,7 +12,7 @@ public class App {
         // EXEMPLO DE UTILIZAÇÃO DE FOR:
         for (int carneirinhos = 0; carneirinhos <= 30; carneirinhos++)
         {
-         System.err.println(carneirinhos + " - Carneirinho(s)");   
+         System.out.println(carneirinhos + " - Carneirinho(s)");   
         }
         
 
